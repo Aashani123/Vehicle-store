@@ -1,0 +1,32 @@
+.data-field {
+    margin-left: 5%;
+    display: flex;
+    justify-content: flex-start;
+    padding-right: 5%;
+}
+
+.card-style {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardsss-style {
+    border: 1px solid #ccc;
+    width: 30%;
+    height: 50%;
+    margin-top: 5%;
+    padding: 5% 0;
+}
+
+.div-style {
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.div-style span {
+    padding-left: 5%;
+    text-align: right;
+}

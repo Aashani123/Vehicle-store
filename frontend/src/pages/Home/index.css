@@ -1,0 +1,17 @@
+.button-style {
+    margin-bottom: 2%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.icon-style {
+    align-items: center;
+    justify-content: center;
+}
+
+.button-style-show {
+    margin-left: 8px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    padding: 5px;
+}

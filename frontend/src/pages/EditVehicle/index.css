@@ -1,0 +1,34 @@
+.form-full {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
+
+.form-style {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid
+    #cb9e9e;
+    padding: 3%;
+    border-radius:8px;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-style input{
+    border-radius: 5px;
+    border-color:aliceblue;
+
+}
+
+.form-style button{
+    border-radius: 8px;
+    background-color: rgb(223, 232, 240);
+    border: none;
+}
+
+.form-style button:hover {
+    background-color: #cb9e9e;
+}
